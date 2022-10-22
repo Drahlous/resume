@@ -28,6 +28,9 @@ p, ul {
     margin-top: 15px;
     margin-bottom: 5px;
 }
+.title {
+    font-size: 1em;
+}
 
 .school-name {
     display: inline-block;
@@ -38,4 +41,8 @@ p, ul {
 .container {
     max-width: 8.5in;
     margin: auto;
+}
+
+#name {
+    margin-bottom: 5px;
 }
